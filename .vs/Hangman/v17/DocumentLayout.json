@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koope\\Documents\\CSE4500\\Week12\\Hangman\\Hangman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF01D09-00A7-444B-8ACE-00FE4B9E574D}|Hangman\\Hangman.csproj|c:\\users\\koope\\documents\\cse4500\\week12\\hangman\\hangman\\hangman\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF01D09-00A7-444B-8ACE-00FE4B9E574D}|Hangman\\Hangman.csproj|solutionrelative:hangman\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF01D09-00A7-444B-8ACE-00FE4B9E574D}|Hangman\\Hangman.csproj|c:\\users\\koope\\documents\\cse4500\\week12\\hangman\\hangman\\hangman\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DF01D09-00A7-444B-8ACE-00FE4B9E574D}|Hangman\\Hangman.csproj|solutionrelative:hangman\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 233,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\koope\\Documents\\CSE4500\\Week12\\Hangman\\Hangman\\Hangman\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Hangman\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\koope\\Documents\\CSE4500\\Week12\\Hangman\\Hangman\\Hangman\\MainPage.xaml.cs",
+              "RelativeToolTip": "Hangman\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:19:10.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\koope\\Documents\\CSE4500\\Week12\\Hangman\\Hangman\\Hangman\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Hangman\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\koope\\Documents\\CSE4500\\Week12\\Hangman\\Hangman\\Hangman\\MainPage.xaml",
+              "RelativeToolTip": "Hangman\\MainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-27T06:29:31.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
